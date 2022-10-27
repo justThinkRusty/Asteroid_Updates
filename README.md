@@ -5,7 +5,9 @@ Author: Charlie Hanner - 2022
  This is a repository for public release of the Python code generated to automatically tweet numbers of asteroids discovered every day. This release is under the CRAPL license as I wanted to make sure this code, while written for personal use and cannot guarantee anything, is available to the public. If you have any questions, please feel free to contact me!
 
 The two accounts can be found at:
+
 [https://twitter.com/AsteroidUpdates](https://twitter.com/AsteroidUpdates)
+
 [https://twitter.com/MBA_Updates](https://twitter.com/AsteroidUpdates)
 
 
