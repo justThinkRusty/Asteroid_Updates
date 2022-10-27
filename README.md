@@ -36,7 +36,7 @@ Then a series of local files for storing asteroid names that begin with Old_ wit
 - MCA
 - OMB
 
-Additionally a file called auth.py is required to store the Twitter API keys and tokens. This file is not included in the repository, but is required to run the code. The file should contain the following lines for each account:
+Additionally a file called auth.py is required to store the Twitter API keys and tokens. This file is not included in the repository (for obvious reasons), but is required to run the code. The file should contain the following lines for each account:
 - API_key
 - API_secret
 - bearer_token 
