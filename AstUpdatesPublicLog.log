@@ -5,3 +5,7 @@ Traceback (most recent call last):
   File "/home/pi/Documents/Asteroid_Updates/AsteroidUpdates.py", line 9, in <module>
     from auth import *
 ModuleNotFoundError: No module named 'auth'
+[main 848fc32] Daily updates push from Pi
+ 1 file changed, 7 insertions(+)
+To https://github.com/justThinkRusty/Asteroid_Updates.git
+   8a9b779..848fc32  main -> main

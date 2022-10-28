@@ -1,0 +1,7 @@
+From https://github.com/justThinkRusty/Asteroid_Updates
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Traceback (most recent call last):
+  File "/home/pi/Documents/Asteroid_Updates/MBA_Updates.py", line 9, in <module>
+    from auth import API_key_MBA, API_secret_MBA, token_MBA, secret_MBA
+ModuleNotFoundError: No module named 'auth'
