@@ -290,18 +290,18 @@ else:
     else:
         send_it(tweet)
 
-if date.today().weekday() == 6:  # It's sunday - it's also time for a wrapup
-    tweet_week = " \n It's sunday and also time for your weekly near-Earth asteroid wrapup. "
-    num_disc_week = sum(WTD)
-    if num_disc_week == 0:
-        tweet_week = tweet_week + "No new asteroids were discovered this week, we'll get 'em next time!"
-    elif num_disc_week == 1:
-        tweet_week = tweet_week + str(num_disc_week) + " new asteroid was discovered this week!"
-    else:
-        tweet_week = tweet_week + str(num_disc_week) + " new asteroids were discovered this week!"
-    # Now reset weekly counter
-    WTD = [0, 0, 0, 0]
-    send_it(tweet_week)
+# if date.today().weekday() == 6:  # It's sunday - it's also time for a wrapup
+#     tweet_week = " \n It's sunday and also time for your weekly near-Earth asteroid wrapup. "
+#     num_disc_week = sum(WTD)
+#     if num_disc_week == 0:
+#         tweet_week = tweet_week + "No new asteroids were discovered this week, we'll get 'em next time!"
+#     elif num_disc_week == 1:
+#         tweet_week = tweet_week + str(num_disc_week) + " new asteroid was discovered this week!"
+#     else:
+#         tweet_week = tweet_week + str(num_disc_week) + " new asteroids were discovered this week!"
+#     # Now reset weekly counter
+#     WTD = [0, 0, 0, 0]
+#     send_it(tweet_week)
 
 
 if today.month == 1 and today.day == 1:  # Happy new year 
