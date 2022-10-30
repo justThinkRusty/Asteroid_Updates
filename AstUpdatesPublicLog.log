@@ -20,3 +20,18 @@ ModuleNotFoundError: No module named 'auth'
  2 files changed, 11 insertions(+)
 To https://github.com/justThinkRusty/Asteroid_Updates.git
    2873029..6d49fce  main -> main
+From https://github.com/justThinkRusty/Asteroid_Updates
+ * branch            main       -> FETCH_HEAD
+   4ab4c56..13301ff  main       -> origin/main
+Updating 4ab4c56..13301ff
+Fast-forward
+ MBA_Updates.py | 24 ++++++++++++------------
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+ 
+ It's sunday and also time for your weekly near-Earth asteroid wrapup. 540 new asteroids were discovered this week!
+Since the last update tweet, there were 61 near Earth asteroids discovered/categorized:
+Amor: 2022 UQ11, 2022 UV11, 2022 UR12, 2022 UX12, 2022 UK13, 2022 UK14, 2022 UZ14, 2022 UB15, 
+Apollo: 2022 UR11, 2022 UT11, 2022 UW11, 2022 UM12, 2022 UN12, 2022 UO12, 2022 UQ12, 2022 UU12, 2022 UV12, 2022 UW12, 2022 UY12, 2022 UZ12, 2022 UB13, 2022 UC13, 2022 UD13, 2022 UF13, 2022 UJ13, 2022 UL13, 2022 UM13, 2022 UN13, 
+Apollo: 2022 UN13, 2022 UO13, 2022 UP13, 2022 UQ13, 2022 UR13, 2022 UA14, 2022 UB14, 2022 UC14, 2022 UD14, 2022 UP14, 2022 UR14, 2022 US14, 2022 UT14, 2022 UU14, 2022 UV14, 2022 UW14, 2022 UX14, 2022 UY14, 2022 UC15, 2022 UW15
+Apollo: 2022 UW15
+Aten: 2022 UU11, 2022 UP12, 2022 UU15, 

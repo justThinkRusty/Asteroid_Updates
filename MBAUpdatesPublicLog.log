@@ -16,3 +16,7 @@ Traceback (most recent call last):
   File "/home/pi/Documents/Asteroid_Updates/MBA_Updates.py", line 9, in <module>
     from auth import API_key_MBA, API_secret_MBA, token_MBA, secret_MBA
 ModuleNotFoundError: No module named 'auth'
+[main 4ab4c56] Daily MBA updates push from Pi
+ 2 files changed, 11 insertions(+)
+To https://github.com/justThinkRusty/Asteroid_Updates.git
+   6d49fce..4ab4c56  main -> main
